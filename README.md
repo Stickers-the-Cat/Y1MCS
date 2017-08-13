@@ -16,3 +16,20 @@ Yup, thats right, _just one more chat system_ that the internet doesn't really n
 + **_(learning)_** use SASS or LESS for CSS; aswell as bootstrap
 + **_(learning)_** use EC6
 + **_(learning)_** set up a PWA
++ **_(reseach/planning)_** look into using webRTC for 1v1
+
+## plans (ships with, all hooks)
+
+### Login
++ include facebook login
++ include twitter login
++ include script login
++ allow guest login
++ include demo auto login for existing sites
+
+### chats
++ 1v1 chats (supported via sockets)
++ group chats (supported via sockets)
+
+### misc
++ friends list
